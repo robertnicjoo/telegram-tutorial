@@ -4,7 +4,7 @@ Learn how to make telegram bot
 
 ## Videos
 
-1. [Part 1](https://youtube.com)
+1. [Part 1](https://youtu.be/ZS_4AtTHbbE)
 
 
 ## Need help?
