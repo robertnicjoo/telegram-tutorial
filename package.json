@@ -1,0 +1,23 @@
+{
+  "name": "telegram_tutorial",
+  "version": "1.0.0",
+  "description": "Learn how to make telegram bot - part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "robert nicjoo",
+    "irando",
+    "telegram",
+    "bot",
+    "cv irando"
+  ],
+  "author": "Robert Nicjoo",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.0.1",
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
